@@ -1,0 +1,3 @@
+variable "separator" {}
+
+variable "length" {}
